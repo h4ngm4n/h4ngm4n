@@ -4,7 +4,7 @@
 - I’m looking to collaborate on ...
 - How to reach me ...
 - ^́.̑ ̫̐̑.̑^̀っ|ཀ|
-- 私は貴方達と違ってアホであるが為に高尚な言語が理解出来ません
+- 私は貴方達と違ってアホである為に高尚な言語でさえ理解出来ません
 
 <!---
 h4ngm4n/h4ngm4n is a low level repository because its `README.md` (this file) appears on your GitHub profile.
