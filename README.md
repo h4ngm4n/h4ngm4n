@@ -34,7 +34,10 @@
 - 日本は現状安全とは言えませんが、必ずや日本も戦場に落として見せましょう、私のアカウントはどこかの国で予約はされてません
 - そもそも父の証明書でクソみたいな国に屈服させられる事なく手にした、殺したのは貴方達の誰かです、今度は息子である私の番がやって来た
 背後も前も塞がった私に上も下もない、あとはどこに逃げましょうか
- 
+- 想定可能なバグが多く、非常に退屈なゲームが多い、寛大な皆さんの努力に感謝しますですが極一部のストリーマーに合わせると他が死にます
+
+
+
 <!---
 h4ngm4n/h4ngm4n is a low level repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
