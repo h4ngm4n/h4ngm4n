@@ -29,6 +29,7 @@
 - ゲーム音声に人の音声が加工されたBGMやSEが混ざっています、見つけたら教えて頂けると差替えが捗ります(SEGA/
 ナイアンテック/バンジー/他社)
 - みんなクソコメントに目も通してくれてありがとう、今日も頭の中にクソハムが響いて苛つくけれど私はクソ元気です
+- 
  
 <!---
 h4ngm4n/h4ngm4n is a low level repository because its `README.md` (this file) appears on your GitHub profile.
